@@ -36,7 +36,7 @@ nav {
   width: 100%;
   box-sizing: border-box;
   padding: 0px 30px;
-  background-color: #dff9fb;
+  background-color: #f7f1e3;
   box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.05);
   z-index: 1; }
 
@@ -343,7 +343,7 @@ p {
 .c-b-heading {
   font-size: 2rem;
   color: #1E1E1E;
-  font-family: calibri;
+  font-family: Calibri;
   margin: 10px;
   padding: 5px;
   letter-spacing: 4px;
@@ -352,7 +352,7 @@ p {
 #contact-btn button {
   color: #FFFFFF;
   font-size: 1rem;
-  font-family: calibri;
+  font-family: Calibri;
   width: 150px;
   height: 40px;
   margin: 10px;
